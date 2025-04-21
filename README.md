@@ -33,7 +33,7 @@ Este portfólio está organizado nos seguintes arquivos principais:
 
 ## 🖥️ Demonstração
 Você pode visualizar a versão online deste projeto (via GitHub Pages) em breve neste link:
-> 🔗 [SeuLinkDoGitHubPages](https://seuusuario.github.io/seu-repositorio)
+> 🔗 https://galafis.github.io/Publicando-Meu-Portfolio-Profissional-no-GitHub-Pages/
 
 ## 📌 Referências
 - Repositório base: [js-developer-portfolio](https://github.com/digitalinnovationone/js-developer-portfolio)
