@@ -1,0 +1,9 @@
+{
+  "name": "publicando-meu-portfolio-profissional-no-github-pages",
+  "version": "1.0.0",
+  "description": "[English](#english) | [Português](#português)",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "license": "MIT"
+}
